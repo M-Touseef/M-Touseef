@@ -31,7 +31,7 @@ Dedicated backend developer with hands-on experience building scalable RESTful A
 - Developed RESTful APIs to streamline university application workflows for prospective students.  
 - Tech: Node.js, Express, MongoDB, JWT
 
-**Pure Eats** (Healthy Food Delivery)
+**E Commerence Store ** (Food Delivery)
 - Created backend services for order management, user authentication, and real-time updates.  
 - Tech: Express.js, MongoDB, Socket.io
 
